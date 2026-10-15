@@ -1,0 +1,4 @@
+.obsidian/
+.workbuddy/
+__pycache__/
+*.pyc
